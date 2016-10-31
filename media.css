@@ -2,15 +2,15 @@
 @media (max-width: 480px) {
 
 }
-/** media sm */
+/** media sm  e md*/
 @media (min-width: 480px) and (max-width: 768px) {
 
 }
-/** media md */
+/** media md e lg */
 @media (min-width: 768px) and (max-width: 992px) {
 
 }
-/** media lg */
+/** media lg e full */
 @media (min-width: 992px) and (max-width: 1200px) { 
 
 }
